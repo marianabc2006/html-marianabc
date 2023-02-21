@@ -5,6 +5,6 @@ h1 {
 }
 
 h2 {
-  text-align: lowercase;
-  text-transform: center;
+  text-align: uppercase;
+  text-transform: left;
 }
