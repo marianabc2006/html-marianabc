@@ -8,6 +8,8 @@
     <title>Static Template</title>
   </head>
   <body>
-    <p
+    <p id="prueba"> Texto de prueba </p>
+  
+    </p>
   </body>
 </html>
