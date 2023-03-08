@@ -1,12 +1,22 @@
 #titulo {
-  text-shadow: 15px 15px brown;
-  color: blueviolet;
-  text-transform: uppercase;
-  font-size: 100px 100px;
+  text-shadow: 4px 4px brown;
+  color: black;
 }
 #frase1 {
-  color: cadetblue;
+  color: black;
   background-color: yellow;
   text-transform: left;
-  font-size: 100px 100px;
+}
+#linea2 {
+  color: green;
+}
+.hu {
+  background-color: black;
+  color: white;
+}
+#frase5y6 {
+  text-transform: uppercase;
+  color: blue;
+  font-size: 50px;
+  text-shadow: 5px 5px burlywood;
 }
