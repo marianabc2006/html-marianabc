@@ -14,9 +14,11 @@
   background-color: black;
   color: white;
 }
-#frase5y6 {
+#linea5 {
   text-transform: uppercase;
   color: blue;
-  font-size: 50px;
-  text-shadow: 5px 5px burlywood;
+}
+#linea6 {
+  text-shadow: 6px 6px greenyellow;
+  font-size: 30px;
 }
