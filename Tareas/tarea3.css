@@ -1,0 +1,40 @@
+#Flor1 {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(5%) drop-shadow(6px 6px rgb(128, 126, 230));
+  color: rgb(0, 0, 0);
+}
+
+#Flor2 {
+  display: block;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(5%) drop-shadow(20px 20px green);
+  color: rgb(0, 0, 0);
+}
+.Flor3 {
+  display: block;
+  filter: drop-shadow(5px 5px green);
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Flor4 {
+  display: block;
+  text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px red);
+}
+
+#Flor5 {
+  display: block;
+  margin-left: auto;
+  text-align: right;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px red);
+}
